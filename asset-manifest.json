@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Sweet-Home/static/css/main.71be9d2a.css",
+    "main.js": "/Sweet-Home/static/js/main.7df90473.js",
+    "static/js/787.ae4f311f.chunk.js": "/Sweet-Home/static/js/787.ae4f311f.chunk.js",
+    "static/media/img-4.jpg": "/Sweet-Home/static/media/img-4.a57e61bfe2c2656bd9d2.jpg",
+    "static/media/img-6.jpg": "/Sweet-Home/static/media/img-6.d890ae2796ed25b3bd83.jpg",
+    "static/media/img-9.jpg": "/Sweet-Home/static/media/img-9.b203cefc7af4acef8da8.jpg",
+    "static/media/img-2.jpg": "/Sweet-Home/static/media/img-2.858de3192c8c9b90a660.jpg",
+    "static/media/img-8.jpg": "/Sweet-Home/static/media/img-8.0b7ad5c92c3ce79f72c1.jpg",
+    "static/media/img-5.jpg": "/Sweet-Home/static/media/img-5.440881d9c8c7ab765fea.jpg",
+    "static/media/img-3.jpg": "/Sweet-Home/static/media/img-3.794dce2d3d71f59fd9a1.jpg",
+    "static/media/img-1.jpg": "/Sweet-Home/static/media/img-1.3239ee3c79b053ae83b2.jpg",
+    "static/media/img-7.jpg": "/Sweet-Home/static/media/img-7.add68be5b6aa0b83334a.jpg",
+    "static/media/img-0.jpg": "/Sweet-Home/static/media/img-0.1295fb5311cf20ad5434.jpg",
+    "index.html": "/Sweet-Home/index.html",
+    "main.71be9d2a.css.map": "/Sweet-Home/static/css/main.71be9d2a.css.map",
+    "main.7df90473.js.map": "/Sweet-Home/static/js/main.7df90473.js.map",
+    "787.ae4f311f.chunk.js.map": "/Sweet-Home/static/js/787.ae4f311f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71be9d2a.css",
+    "static/js/main.7df90473.js"
+  ]
+}
